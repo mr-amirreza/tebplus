@@ -72,7 +72,7 @@ list-style:none;
 }
 a:hover{color:#009bc3;}
 html,body,p{
-font-family:Vazir,tahoma;
+font-family:Vazir,Vazir;
 font-size:.8375rem;
 direction:rtl;
 margin:0px;
@@ -136,7 +136,7 @@ color:#FFF;
 
 
 .title_site h2{
-	font:9pt tahoma;
+	font:9pt Vazir;
 	margin:5px 10px 0 0;
 	color:#FFF;
 }
@@ -217,7 +217,7 @@ nav a:hover{
     height: 35px;
     background:url('34.png') no-repeat;
     margin: 5px 0px 15px 0;
-    font:13px Vazir, tahoma;
+    font:13px Vazir, Vazir;
     border: 1px solid #bdbdbd;
     border-radius:5px;
     background: #FFF;
@@ -379,7 +379,7 @@ box-shadow:0 0 3px #ddd;
 }
 .post_content
 {
-	font:10pt tahoma;
+	font:10pt Vazir;
 	color:#333333;
 }
 #bodys li{
@@ -394,11 +394,11 @@ padding:1px 2px;
 
 .tag_cat{
 margin:5px;
-font:8pt tahoma;
+font:8pt Vazir;
 }
 .tag_cat a{
 color:#999;
-font:8pt tahoma;
+font:8pt Vazir;
 }
 .cat_post{padding:1px 10px;}
 .cat_post:hover{background: #08d3f8;color:#FFF;
@@ -417,7 +417,7 @@ font:8pt tahoma;
 #category-list ul li { background: url("2.png") no-repeat right 6px transparent; padding: 0 10px 0 0;text-align: right;}
 #category-list ul li ul { padding:0; margin:0;list-style: none;}
 #category-list ul li ul li { background: url("3.png") no-repeat right 8px transparent; padding:0 10px 0 0; margin-right: 5px;}
-#category-list a {font: 14px Vazir, tahoma; color: #4a4a4a; line-height: 1.6em; display: block; text-decoration: none; text-align: right;}
+#category-list a {font: 14px Vazir, Vazir; color: #4a4a4a; line-height: 1.6em; display: block; text-decoration: none; text-align: right;}
 #category-list a:hover { color: #08d3f8; }
 
 .onl{
@@ -519,7 +519,7 @@ color: #EA7808;
     float: right;
     margin:0px 5px 0 0;
     color:#FFFFFF;
-    font:13px Vazir , tahoma;
+    font:13px Vazir , Vazir;
 }
 .top:hover{
     color: #f4db08;
@@ -538,7 +538,7 @@ color: #EA7808;
     text-align: left;
 }
 
-table tr td{font-family:Vazir,tahoma;font-size:.8375rem;}
+table tr td{font-family:Vazir,Vazir;font-size:.8375rem;}
 .more
 {
 	margin:15px 0px 15px 0;
@@ -2330,7 +2330,7 @@ border-radius: 5px;
 	-khtml-box-shadow:0px 0px 0px gray;
 	transition:0.2s;
 	-o-transition:0.2s;
-	font:14px Vazir,tahoma;
+	font:14px Vazir,Vazir;
 	-webkit-transition:0.2s;
 	-moz-transition:0.2s;
 	-khtml-transition:0.2s;
@@ -2358,7 +2358,7 @@ margin:0px 0px 5px 0;
 	-khtml-box-shadow:0px 0px 3px gray;
 	transition:0.2s;
 	-o-transition:0.2s;
-	font:9pt tahoma;
+	font:9pt Vazir;
 	-webkit-transition:0.2s;
 	-moz-transition:0.2s;
 	-khtml-transition:0.2s;
@@ -2396,13 +2396,13 @@ margin:0px 0px 5px 0;
 	-khtml-box-shadow:0px 0px 3px #3498db;
 }
 
-#loading{border:1px solid #999;padding:10px;text-align:center;vertical-align:middle;display:none;font:10pt tahoma;font-weight:bold;background:#FFF;}
+#loading{border:1px solid #999;padding:10px;text-align:center;vertical-align:middle;display:none;font:10pt Vazir;font-weight:bold;background:#FFF;}
 
 .clear{clear:both;}
 
 
 .small{
-font:8pt tahoma;
+font:8pt Vazir;
 color:#333;
 }
 
@@ -2421,17 +2421,17 @@ color:#333;
 	background:#f6f6f6;
 }
 html,body,p{
-font-family:Vazir,tahoma;
+font-family:Vazir,Vazir;
 font-size:.8375rem;
 direction:rtl;
 margin:0px;
 }
 .cat_2{width:100%;float:right;}
 .img_cat{float:right;border:1px solid #ccc;margin-left:2px;vertical-align:baseline}
-.dec_cat{font:20px Vazir,tahoma;}
+.dec_cat{font:20px Vazir,Vazir;}
 .cat{text-align:right;}
 .img_cat_2{float:right;border:1px solid #ccc;margin-left:2px;vertical-align:baseline}
 .cat_3{text-align:left;bottom: 0;clear:both;width:200px;float:left;}
 .img_related{border:1px solid #F0F0F0;margin:1px;}
 .none{display:none;}
-.font9{font:9pt tahoma;}
+.font9{font:9pt Vazir;}
