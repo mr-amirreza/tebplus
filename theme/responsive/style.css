@@ -63,7 +63,7 @@
        url('http://mr-amirreza.github.io/vazir-font/dist/Vazir-Black.ttf') format('truetype');
   font-weight: 900;
 }
-html,li,h2,h1,h3,h4,h5,h6,a{
+html,li,h2,h1,h3,h4,h5,h6,a,p{
 color:#111;
 text-decoration:none;
 margin:0px;
