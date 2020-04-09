@@ -63,7 +63,7 @@
        url('http://mr-amirreza.github.io/vazir-font/dist/Vazir-Black.ttf') format('truetype');
   font-weight: 900;
 }
-html,li,h2,h1,h3,h4,h5,h6,a,p{
+html,li,h2,h1,h3,h4,h5,h6,a{
 color:#111;
 text-decoration:none;
 margin:0px;
@@ -71,7 +71,7 @@ padding:0px;
 list-style:none;
 }
 a:hover{color:#009bc3;}
-body{
+html,body,p{
 font-family:Vazir,tahoma;
 font-size:.8375rem;
 direction:rtl;
@@ -2419,6 +2419,12 @@ color:#333;
 .cat_list_title_post:hover
 {
 	background:#f6f6f6;
+}
+html,body,p{
+font-family:Vazir,tahoma;
+font-size:.8375rem;
+direction:rtl;
+margin:0px;
 }
 .cat_2{width:100%;float:right;}
 .img_cat{float:right;border:1px solid #ccc;margin-left:2px;vertical-align:baseline}
